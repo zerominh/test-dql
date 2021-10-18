@@ -1,4 +1,4 @@
-%matplotlib inline
+# %matplotlib inline
 
 import gym
 from gym.wrappers import Monitor
